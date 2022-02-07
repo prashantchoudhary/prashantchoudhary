@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashantchoudhary
-- 👀 I’m interested in design and architecture. One the tech side, C# primarly, but then everything else like Java, C++, PHP etc.
+- 👀 I’m interested in design and architecture. On the tech side, C# primarly, but then everything else like Java, Typescript, C++, PHP etc.
 - 🌱 I’m currently learning DDD and Golang
 - 💞️ I’m looking to collaborate on C# projects.
 - 📫 Send me an email for anything.
